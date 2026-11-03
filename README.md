@@ -12,11 +12,33 @@
 
 ---
 
+<div align="center">
+
+```text
+################################################################################################
+##                                                                                            ##
+##   ##     ## ##     ##  ######  ########    ###    ########  #######                       ##
+##   ###   ### ##     ## ##    ##    ##      ## ##   ##       ##     ##                      ##
+##   #### #### ##     ## ##          ##     ##   ##  ##       ##     ##                      ##
+##   ## ### ## ##     ##  ######     ##    ##     ## ######   ##     ##                      ##
+##   ##     ## ##     ##       ##    ##    ######### ##       ##     ##                      ##
+##   ##     ## ##     ## ##    ##    ##    ##     ## ##       ##     ##                      ##
+##   ##     ##  #######   ######     ##    ##     ## ##        #######                       ##
+##                                                                                            ##
+################################################################################################
+```
+
+### Backend Developer • Python Engineer • Automation Builder • Web Developer
+
+</div>
+
+---
+
 ## 👋 About Me
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="64%" valign="top">
 
 I’m **Mustafo Anvarjonov**, a backend-focused developer building practical projects with Python and web technologies.
 
@@ -28,7 +50,7 @@ I’m **Mustafo Anvarjonov**, a backend-focused developer building practical pro
 - 🚀 Goal: build useful software and keep improving
 
 </td>
-<td width="35%" valign="top">
+<td width="36%" valign="top">
 
 ### ⚡ Developer Snapshot
 
@@ -44,6 +66,14 @@ I’m **Mustafo Anvarjonov**, a backend-focused developer building practical pro
 
 ---
 
+## 🖥️ Developer Terminal
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/uzbcoding-Backend/uzbcoding-Backend/main/assets/terminal.svg" width="100%" alt="Developer terminal" />
+</div>
+
+---
+
 ## 🧠 Professional Stack
 
 <div align="center">
@@ -54,7 +84,7 @@ I’m **Mustafo Anvarjonov**, a backend-focused developer building practical pro
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Workflow
+### Backend & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -110,17 +140,29 @@ Restaurant interface project with menu and service-oriented layout.
 ## 🔄 How I Build
 
 ```text
-Idea
-  ↓
-Plan the feature
-  ↓
-Write clean code
-  ↓
-Test & debug
-  ↓
-Push to GitHub
-  ↓
-Improve from feedback
+┌───────────────┐
+│      IDEA     │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│      PLAN     │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│      CODE     │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│  TEST & DEBUG │
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│ PUSH TO GITHUB│
+└───────┬───────┘
+        ↓
+┌───────────────┐
+│    IMPROVE    │
+└───────────────┘
 ```
 
 ---
@@ -139,13 +181,16 @@ Improve from feedback
 
 ---
 
-<div align="center">
+## 🧭 Skill Matrix
 
-<img src="https://raw.githubusercontent.com/uzbcoding-Backend/uzbcoding-Backend/main/assets/mustafo.svg" width="100%" alt="MUSTAFO" />
-
-### Backend Developer • Python • Web • Automation
-
-</div>
+| Area | Level | Current Focus |
+|---|---|---|
+| Python | ⭐⭐⭐⭐☆ | Backend, scripting, automation |
+| HTML/CSS | ⭐⭐⭐⭐☆ | Modern layouts and UI |
+| JavaScript | ⭐⭐⭐☆☆ | Interactive web features |
+| Git/GitHub | ⭐⭐⭐⭐☆ | Repos, workflows, collaboration |
+| Telegram Bots | ⭐⭐⭐⭐☆ | Useful bot flows and automation |
+| APIs | ⭐⭐⭐☆☆ | Learning stronger backend patterns |
 
 ---
 
@@ -153,25 +198,40 @@ Improve from feedback
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=uzbcoding-Backend&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Mustafo GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzbcoding-Backend&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Mustafo top languages" />
-
-<br/>
-
-<img width="96%" src="https://streak-stats.demolab.com?user=uzbcoding-Backend&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+![Followers](https://img.shields.io/github/followers/uzbcoding-Backend?style=for-the-badge&logo=github&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/uzbcoding-Backend?style=for-the-badge&logo=github&label=TOTAL%20STARS)
 
 </div>
+
+> I prefer stable, readable profile elements over fragile external cards that often break.
 
 ---
 
 ## 🧭 Roadmap
 
-- Build stronger Python backend projects
-- Learn API design more deeply
-- Improve database skills
-- Create more automation tools
-- Publish polished GitHub projects
-- Keep contributing and collaborating
+- [x] Build a powerful GitHub profile
+- [x] Create custom profile visuals
+- [x] Add contribution animation
+- [x] Build multiple public projects
+- [ ] Build stronger Python backend projects
+- [ ] Improve API design skills
+- [ ] Improve database skills
+- [ ] Create more automation tools
+- [ ] Publish more polished repositories
+- [ ] Keep contributing and collaborating
+
+---
+
+## 🏆 Developer Mindset
+
+```text
+LEARN FAST
+BUILD REAL THINGS
+TEST EVERYTHING
+SHIP OFTEN
+IMPROVE CONTINUOUSLY
+HELP OTHERS
+```
 
 ---
 
@@ -181,12 +241,20 @@ Improve from feedback
 
 [![Repositories](https://img.shields.io/badge/VIEW-REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uzbcoding-Backend?tab=repositories)
 [![GitHub](https://img.shields.io/badge/FOLLOW-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uzbcoding-Backend)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@uzcodingdev)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-CONNECT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cleancody)
 
 <br/><br/>
 
-### `uzbcoding-Backend`
+```text
+################################################################################
+##                                                                            ##
+##                     U Z B C O D I N G - B A C K E N D                      ##
+##                                                                            ##
+################################################################################
+```
 
-**BUILD • LEARN • SHIP • IMPROVE**
+### BUILD • LEARN • SHIP • IMPROVE
 
 ⭐ Thanks for visiting my profile!
 
