@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mustafo Anvarjonov
+<img src="https://raw.githubusercontent.com/uzbcoding-Backend/uzbcoding-Backend/main/assets/mustafo.svg" width="100%" alt="MUSTAFO banner" />
 
 ### Backend Developer • Python Enthusiast • Web Builder
 
@@ -32,6 +32,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🎮 Contribution Game
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uzbcoding-Backend/uzbcoding-Backend/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uzbcoding-Backend/uzbcoding-Backend/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/uzbcoding-Backend/uzbcoding-Backend/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
 
