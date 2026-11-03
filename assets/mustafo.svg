@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
+  <rect width="900" height="180" rx="24" fill="#0d1117"/>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#39d353"/>
+      <stop offset="0.5" stop-color="#2ea043"/>
+      <stop offset="1" stop-color="#00ff88"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <text x="450" y="112" text-anchor="middle" font-family="monospace" font-size="92" font-weight="900" letter-spacing="12" fill="url(#g)" filter="url(#glow)">MUSTAFO</text>
+  <text x="450" y="152" text-anchor="middle" font-family="monospace" font-size="18" fill="#8b949e">Backend Developer • Python • Web Development</text>
+</svg>
