@@ -1,37 +1,70 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/uzbcoding-Backend/uzbcoding-Backend/main/assets/mustafo.svg" width="100%" alt="MUSTAFO banner" />
+# Mustafo Anvarjonov
 
-### Backend Developer • Python Enthusiast • Web Builder
+### Software Engineer • Backend Developer • Python Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+%7C+Web+Development;Building+useful+projects+and+learning+every+day)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=800&color=FF8A00&center=true&vCenter=true&width=700&lines=Backend+Development+%7C+Python+%7C+Web;Building+useful+projects;Open+to+learning+and+collaboration" alt="Typing SVG" />
 
 </div>
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
+## 🟠 CORE EXPERTISE
+
+- Backend development with Python
+- Web applications and APIs
+- Automation and Telegram bots
+- Database basics and project structure
+- Git, GitHub and deployment workflows
+- Problem solving and continuous learning
+
+</td>
+<td width="35%" valign="top">
+
+### AVAILABLE FOR WORK
+
+**Location:** Tashkent, Uzbekistan  
+**Focus:** Backend / Python  
+**Username:** `uzbcoding-Backend`  
+**Status:** Building & learning
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🚀 About Me
-
-- 💻 I build backend and web projects
-- 🐍 I enjoy working with Python
-- 🌐 I also work with HTML, CSS and JavaScript
-- 🤖 Interested in bots, automation and AI projects
-- 📚 Always learning and improving my programming skills
-- 📍 Tashkent, Uzbekistan
-
----
-
-## 🧰 Tech Stack
+## 🧰 TECHNICAL SKILLS
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+
+</div>
+
+<div align="center">
+
+### Professional software • Clear communication • Long-term value
+
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-VIEW%20PROJECTS-FF8A00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uzbcoding-Backend?tab=repositories)
+[![GITHUB](https://img.shields.io/badge/GITHUB-uzbcoding--Backend-FF5A00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uzbcoding-Backend)
+
+I'd be happy to hear from you.
+
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/uzbcoding-Backend)
 
 </div>
 
@@ -44,64 +77,80 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uzbcoding-Backend/uzbcoding-Backend/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uzbcoding-Backend/uzbcoding-Backend/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/uzbcoding-Backend/uzbcoding-Backend/output/pacman-contribution-graph.svg">
+  <img width="100%" alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/uzbcoding-Backend/uzbcoding-Backend/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=uzbcoding-Backend&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzbcoding-Backend&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/uzbcoding-Backend/uzbcoding-Backend/main/assets/mustafo.svg" width="100%" alt="MUSTAFO" />
+
+### Mustafo Anvarjonov • Backend Developer • Python • Web
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📊 GitHub Statistics
 
 <div align="center">
 
-[![Mustafo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uzbcoding-Backend&theme=tokyo-night&hide_border=true&area=true)](https://github.com/uzbcoding-Backend)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=uzbcoding-Backend&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzbcoding-Backend&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![Mustafo's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uzbcoding-Backend&theme=github-compact&hide_border=true&area=true)](https://github.com/uzbcoding-Backend)
 
 </div>
 
 ---
 
-## ⭐ Featured Projects
+## 📌 Pinned-style Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![VEXOR](https://img.shields.io/badge/VEXOR-Live%20Project-0A66C2?style=for-the-badge&logo=github)](https://github.com/uzbcoding-Backend/vexor)
-[![Python Site](https://img.shields.io/badge/Python%20Site-Learning%20Project-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/uzbcoding-Backend/python-sayt)
-[![Game HTML](https://img.shields.io/badge/Game%20HTML-Web%20Game-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/uzbcoding-Backend/Game-HTML)
-[![Restaurant](https://img.shields.io/badge/Restaurant-Web%20Project-1F6FEB?style=for-the-badge&logo=github)](https://github.com/uzbcoding-Backend/Restuarant)
+### [VEXOR](https://github.com/uzbcoding-Backend/vexor)
+Web project built with HTML and frontend technologies.
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### [Python Site](https://github.com/uzbcoding-Backend/python-sayt)
+Python learning and web project.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Game HTML](https://github.com/uzbcoding-Backend/Game-HTML)
+Browser game project built for the web.
+
+</td>
+<td width="50%" valign="top">
+
+### [Restaurant](https://github.com/uzbcoding-Backend/Restuarant)
+Restaurant website project and interface.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Goals
-
-```text
-Build useful projects
-Learn backend development deeply
-Improve Python skills
-Contribute to open source
-Keep growing every day
-```
-
----
-
 <div align="center">
 
-### 🤝 Let's Connect
+### `uzbcoding-Backend`
 
-[![GitHub](https://img.shields.io/badge/GitHub-uzbcoding--Backend-181717?style=for-the-badge&logo=github)](https://github.com/uzbcoding-Backend)
+**Backend • Python • Web Development • GitHub**
 
 ⭐ Thanks for visiting my profile!
 
