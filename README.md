@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mustafo Anvarjonov
+# Mustafo Anvarov
 
 ### Software Engineer • Backend Developer • Python Enthusiast
 
