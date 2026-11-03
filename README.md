@@ -105,7 +105,7 @@ I'd be happy to hear from you.
 
 <div align="center">
 
-[![Mustafo's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uzbcoding-Backend&theme=github-compact&hide_border=true&area=true)](https://github.com/uzbcoding-Backend)
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uzbcoding-Backend&theme=github_dark" alt="Mustafo GitHub activity summary" />
 
 </div>
 
