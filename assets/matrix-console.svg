@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="382" viewBox="0 0 1200 382" role="img" aria-label="Neon green programmer console with digital rain behind code">
+<defs><linearGradient id="g" x1="0" y1="0" x2=".9" y2="1"><stop stop-color="#020b08"/><stop offset="1" stop-color="#0b1d14"/></linearGradient>
+<pattern id="p" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#13472d" opacity=".25"/></pattern>
+<filter id="neon"><feGaussianBlur stdDeviation="5"/></filter></defs>
+<rect width="1200" height="382" rx="17" fill="url(#g)" stroke="#1bbe76" stroke-width="2"/>
+<rect width="1200" height="382" fill="url(#p)"/>
+<rect x="19" y="18" width="1162" height="345" rx="13" fill="#000a06" fill-opacity=".83" stroke="#0f683d"/>
+<path d="M19 68H1181" stroke="#24734d"/>
+<circle cx="45" cy="44" r="7" fill="#ff706b"/><circle cx="69" cy="44" r="7" fill="#ffc463"/><circle cx="93" cy="44" r="7" fill="#51ec9a"/>
+<text x="114" y="50" fill="#93c5a8" font-family="monospace" font-size="16">operator@uzbcoding:~/matrix-engine</text>
+<g font-family="monospace" font-size="20">
+<text x="42" y="114" fill="#39f5a0">$ python matrix_rain.py --seconds 20</text>
+<text x="42" y="150" fill="#a6dcbf">[✓] MATRIX ENGINE LOADED</text>
+<text x="42" y="182" fill="#a6dcbf">[✓] NEON COLOR PALETTE ACTIVE</text>
+<text x="42" y="214" fill="#a6dcbf">[✓] TERMINAL ANIMATION READY</text>
+<text x="42" y="261" fill="#dcfff0">def future():</text>
+<text x="73" y="293" fill="#5df4a8">return "BUILD  /  DEBUG  /  IMPROVE"</text>
+<text x="42" y="345" fill="#44ffa3">[ SYSTEM ONLINE ]  [ PROJECTS READY ]</text>
+</g>
+<g font-family="monospace" font-size="18" fill="#00c978" opacity=".35">
+<text x="840" y="117">01001110010111</text><text x="870" y="147">10111010010001</text>
+<text x="838" y="177">00101011001001</text><text x="889" y="207">11001100101011</text>
+<text x="835" y="238">01101001101110</text><text x="874" y="269">10110110010010</text>
+<text x="848" y="305">01011001110101</text>
+</g>
+<path d="M823 79V333" stroke="#165f3a" stroke-dasharray="5 7"/>
+</svg>

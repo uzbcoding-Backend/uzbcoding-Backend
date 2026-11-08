@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="76" viewBox="0 0 340 76" role="img" aria-label="VIEW REPOSITORIES">
+<defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#04120b"/><stop offset="1" stop-color="#0b2f1a"/></linearGradient></defs>
+<rect x="3" y="3" width="334" height="70" rx="12" fill="url(#b)" stroke="#18e589" stroke-width="2"/>
+<path d="M14 4H79M258 73H329" stroke="#b5ffdc" stroke-width="3"/>
+<text x="25" y="47" fill="#00ff99" font-family="monospace" font-weight="bold" font-size="22">&gt;_</text>
+<text x="79" y="34" fill="#dcffed" font-family="monospace" font-weight="bold" font-size="18">VIEW REPOSITORIES</text>
+<text x="80" y="55" fill="#40d18e" font-family="monospace" font-size="11">./projects --list</text>
+</svg>
