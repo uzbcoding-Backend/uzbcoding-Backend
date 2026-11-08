@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360" role="img" aria-label="Developer terminal introduction">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#0b1816"/><stop offset="1" stop-color="#050c0b"/></linearGradient></defs>
+<rect x="1" y="1" width="1098" height="358" rx="17" fill="url(#bg)" stroke="#186f4b" stroke-width="2"/>
+<path d="M0 56H1100" stroke="#135239" stroke-width="2"/>
+<circle cx="32" cy="29" r="7" fill="#fb6b68"/><circle cx="58" cy="29" r="7" fill="#f3c44f"/><circle cx="84" cy="29" r="7" fill="#36d97e"/>
+<text x="110" y="34" fill="#8bbba5" font-size="16" font-family="monospace">dev@uzbcoding:~ — bash</text>
+<g font-family="monospace" font-size="21">
+<text x="39" y="101" fill="#50ffad">dev@uzbcoding:~$</text><text x="260" y="101" fill="#edfdf4">whoami</text>
+<text x="59" y="137" fill="#93cdb1">Developer focused on Python, backend and web projects.</text>
+<text x="39" y="182" fill="#50ffad">dev@uzbcoding:~$</text><text x="260" y="182" fill="#edfdf4">cat mission.txt</text>
+<text x="59" y="217" fill="#93cdb1">Learn. Build. Debug. Improve. Repeat.</text>
+<text x="39" y="262" fill="#50ffad">dev@uzbcoding:~$</text><text x="260" y="262" fill="#edfdf4">echo $CURRENT_STATUS</text>
+<text x="59" y="301" fill="#54fcb2">[ ONLINE ]   Shipping projects and learning every day.</text>
+<text x="39" y="339" fill="#50ffad">dev@uzbcoding:~$</text>
+</g>
+<rect x="260" y="318" width="13" height="24" rx="2" fill="#5effb8"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
